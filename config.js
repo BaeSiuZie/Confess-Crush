@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Aiza nay là ngày gì ấy nhỉ??",
+    introTitle: 'Hà của tui nè mọi người ❤️❤️❤️',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'Bởi vì em yêu anh nhất hjhj 😍😍',
+    mess: 'Anh biết liền mà 🥰. Yêu em nhiều laemsmm!! So muchhh!! chụt chụt 😘😘',
+    messDesc: 'Nhân ngày 8/3 anh chúc em sẽ có nhiều niềm vui, nhiều sức khỏe, đạt được nhiều mong muốn! Đặc biệt là sẽ yêu anh nhìu hơn nhé ☆*: .｡. o(≧▽≦)o .｡.:*☆',
+    btnAccept: 'Oceeeeeee lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
